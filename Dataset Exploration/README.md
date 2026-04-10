@@ -57,6 +57,11 @@ Exploratory analysis of the **16k subset** produced by the previous notebook.
 | Resource | Path |
 | :--- | :--- |
 | Full LVIS annotations | `lvis_v1_train.json` |
-| 16k subset annotations | `B:/CV Project/lvis_16k_dataset/annotations.json` |
-| 16k subset images | `B:/CV Project/lvis_16k_dataset/images/` |
-| COCO source images | `B:/CV Project/train2017/` |
+| 16k subset annotations | `lvis_16k_dataset/annotations.json` |
+| 16k subset images | `lvis_16k_dataset/images/` |
+| COCO source images | `train2017/` |
+
+## Author
+
+**Bhavya Patel**
+COMP 6341 — Computer Vision, Concordia University (April 2026)
