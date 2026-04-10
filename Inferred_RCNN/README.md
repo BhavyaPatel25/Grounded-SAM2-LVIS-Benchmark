@@ -68,3 +68,8 @@ This folder evaluates a **pretrained Mask R-CNN (ResNet-50 + FPN)** — without 
 ## Key Libraries
 
 `torch`, `torchvision`, `pycocotools`, `PIL`, `numpy`, `pandas`, `tqdm`
+
+## Author
+
+**Bhavya Patel**
+COMP 6341 — Computer Vision, Concordia University (April 2026)

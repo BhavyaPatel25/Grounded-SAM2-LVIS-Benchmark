@@ -61,3 +61,8 @@ The notebook is organized into three parts:
 ## Key Libraries
 
 `torch`, `torchvision`, `pycocotools`, `cv2`, `matplotlib`, `numpy`, `pandas`
+
+## Author
+
+**Bhavya Patel**
+COMP 6341 — Computer Vision, Concordia University (April 2026)
